@@ -4,7 +4,8 @@ Gain so much likes and followers Just by running this simple script That generat
 
 put a RAT on his pc screenshot the saved credenticals on the doc and your done , im working on one about saving it to google sheets subscribe for that.
 
-Make a document called cv.docx paste it in the document phishing folder then run the attack
+after the person types the creds check the cv.docx in the document-phishing folder
+
 
 subscribe to me skids
 https://www.youtube.com/channel/UC3ZNAm1yPMUVQ9rtqQlwnOA
