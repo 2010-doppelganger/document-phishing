@@ -1,4 +1,4 @@
-# social-engineering-tacticsCancel Changes
+social-engineering-tacticsCancel Changes
 Example 1:
 Gain so much likes and followers Just by running this simple script That generates as much followers as you want waiting can range from 1 - 3 weeks don't change your password  the mining process will cause an error
 
